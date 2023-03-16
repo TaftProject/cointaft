@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/cointaft_ar.qm</file>
+        <file alias="bg">locale/cointaft_bg.qm</file>
+        <file alias="de">locale/cointaft_de.qm</file>
+        <file alias="en">locale/cointaft_en.qm</file>
+        <file alias="es">locale/cointaft_es.qm</file>
+        <file alias="fi">locale/cointaft_fi.qm</file>
+        <file alias="fr">locale/cointaft_fr.qm</file>
+        <file alias="it">locale/cointaft_it.qm</file>
+        <file alias="ja">locale/cointaft_ja.qm</file>
+        <file alias="ko">locale/cointaft_ko.qm</file>
+        <file alias="nl">locale/cointaft_nl.qm</file>
+        <file alias="pl">locale/cointaft_pl.qm</file>
+        <file alias="pt">locale/cointaft_pt.qm</file>
+        <file alias="ro">locale/cointaft_ro.qm</file>
+        <file alias="ru">locale/cointaft_ru.qm</file>
+        <file alias="sk">locale/cointaft_sk.qm</file>
+        <file alias="th">locale/cointaft_th.qm</file>
+        <file alias="tr">locale/cointaft_tr.qm</file>
+        <file alias="vi">locale/cointaft_vi.qm</file>
+        <file alias="zh_CN">locale/cointaft_zh_CN.qm</file>
+        <file alias="zh_TW">locale/cointaft_zh_TW.qm</file>
+    </qresource>
+</RCC>
